@@ -1,0 +1,92 @@
+[
+    {
+        "code": "3008",
+        "life": 3,
+        "type": "buy",
+        "weigth": 1,
+        "open_price": 4495.0,
+        "close_high_price": 4545.0,
+        "close_low_price": 4445.0
+    },
+    {
+        "code": "2327",
+        "life": 3,
+        "type": "short",
+        "weigth": 1,
+        "open_price": 987.0,
+        "close_high_price": 1025.0,
+        "close_low_price": 949.0
+    },
+    {
+        "code": "4943",
+        "life": 3,
+        "type": "short",
+        "weigth": 1,
+        "open_price": 305.5,
+        "close_high_price": 321.5,
+        "close_low_price": 289.5
+    },
+    {
+        "code": "3406",
+        "life": 3,
+        "type": "short",
+        "weigth": 1,
+        "open_price": 518.0,
+        "close_high_price": 533.0,
+        "close_low_price": 503.0
+    },
+    {
+        "code": "5269",
+        "life": 3,
+        "type": "buy",
+        "weigth": 1,
+        "open_price": 455.0,
+        "close_high_price": 468.0,
+        "close_low_price": 442.0
+    },
+    {
+        "code": "3504",
+        "life": 3,
+        "type": "short",
+        "weigth": 1,
+        "open_price": 134.5,
+        "close_high_price": 144.0,
+        "close_low_price": 125.0
+    },
+    {
+        "code": "6414",
+        "life": 3,
+        "type": "short",
+        "weigth": 1,
+        "open_price": 440.0,
+        "close_high_price": 449.5,
+        "close_low_price": 430.5
+    },
+    {
+        "code": "3026",
+        "life": 3,
+        "type": "buy",
+        "weigth": 1,
+        "open_price": 212.5,
+        "close_high_price": 221.0,
+        "close_low_price": 204.0
+    },
+    {
+        "code": "2492",
+        "life": 3,
+        "type": "short",
+        "weigth": 1,
+        "open_price": 350.0,
+        "close_high_price": 358.0,
+        "close_low_price": 342.0
+    },
+    {
+        "code": "2723",
+        "life": 3,
+        "type": "buy",
+        "weigth": 1,
+        "open_price": 305.0,
+        "close_high_price": 313.0,
+        "close_low_price": 297.0
+    }
+]

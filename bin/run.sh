@@ -1,1 +1,1 @@
-python3 parser.py $1 $2
+python3 load.py $1 $1 test
